@@ -15,3 +15,4 @@ List of Sympoteins
 * Sympotein X (February 9th, 2013) : Music and the Brain 
 * Sympotein XI (March 11, 2014) : Conflict
 * Sympotein XII (March 31, 2016) : Communication
+* Sympotein XIII (September 1, 2017) : Geometry and Design: Patterns in Biology
