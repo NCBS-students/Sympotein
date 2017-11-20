@@ -16,3 +16,4 @@ List of Sympoteins
 * Sympotein XI (March 11, 2014) : Conflict
 * Sympotein XII (March 31, 2016) : Communication
 * Sympotein XIII (September 1, 2017) : Geometry and Design: Patterns in Biology
+* Sympotein XIV (November 17, 2017) : Untold Narratives in Biology
