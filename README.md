@@ -1,5 +1,4 @@
 # Sympotein
-Symptein event at NCBS
 
 List of Sympoteins
 
@@ -13,7 +12,7 @@ List of Sympoteins
 * Sympotein VIII (November 24, 2010) : Extreme cell biology
 * Sympotein VII (August 18,  2010) : Macromolecular Structures and Function: How do they Connect?
 * Sympotein VI (April 28,  2010) : Rhythms in Biology
-* Sympostein V (May 8,  2009) : Evolution and Sex: The emergence of the sexes, sexual conflict and sexual selection
+* Sympotein V (May 8,  2009) : Evolution and Sex: The emergence of the sexes, sexual conflict and sexual selection
 * Sympotein IV (February 6,  2009) : Unlocking the Hidden layer: Noncoding RNA Silenced no more
 * Sympotein III (October 16, 2008) : The Dextrous and the Sinister Symmetry and Asymmetry in Biology
 * Sympotein II (August 8, 2008) : The Nuts & Struts in Animal Locomotion: Getting to the Meat of the Issue
